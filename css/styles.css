@@ -4,7 +4,12 @@
 }
 
 .wikiheader {
-  width: 50%;
+  margin-left: 200px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-style: solid;
+  border-width: 1px;
+  border-color:#cecece;
 }
 
 .portal_list {
@@ -29,7 +34,7 @@
 
 .body_content {
   padding-left: 20px;
-  margin-left: 150px;
+  margin-left: 170px;
 }
 
 #nav {
@@ -40,4 +45,5 @@ h5 {
   padding-bottom: 5px;
   border-bottom-style: solid;
   border-bottom-width: 1px;
+  border-color:#cecece;
 }
