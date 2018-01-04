@@ -1,9 +1,10 @@
 .container {
   margin: 10px;
+  pa
 }
 
 .wikiheader {
-  width: 70%;
+  width: 50%;
 }
 
 .portal_list {
@@ -33,4 +34,10 @@
 
 #nav {
   height: 42px;
+}
+
+h5 {
+  padding-bottom: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
 }
