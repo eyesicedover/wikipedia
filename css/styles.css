@@ -1,7 +1,14 @@
 .container {
-  margin: 0px;
+  margin: 10px;
 }
 
+.wikiheader {
+  width: 70%;
+}
+
+.portal_list {
+  float: right;
+}
 .main_nav {
   float: left;
   width: 150px;
@@ -11,6 +18,7 @@
 
 .main_nav ul {
   list-style-type: none;
+  padding: 0px;
 }
 
 .main_nav img {
@@ -19,7 +27,7 @@
 }
 
 .body_content {
-  padding-left: 10px;
+  padding-left: 20px;
   margin-left: 150px;
 }
 
