@@ -59,6 +59,8 @@ h5 {
   color: black;
   border-width: 1px;
   background-color: #cef2e0;
+  font-size: 20px;
+  padding-left: 10px;
 }
 
 #boxesblue h3 {
@@ -66,4 +68,10 @@ h5 {
   color: black;
   border-width: 1px;
   background-color: #cedff2;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.row {
+  margin-top: 15px;
 }
