@@ -53,3 +53,17 @@ h5 {
   border-bottom-width: 1px;
   border-color:#cecece;
 }
+
+#boxes h3 {
+  border-style: solid;
+  color: black;
+  border-width: 1px;
+  background-color: #cef2e0;
+}
+
+#boxesblue h3 {
+  border-style: solid;
+  color: black;
+  border-width: 1px;
+  background-color: #cedff2;
+}
