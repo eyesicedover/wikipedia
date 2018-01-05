@@ -11,8 +11,11 @@
   border-color:#cecece;
 }
 
+#header-row {
+  height: 75px;
+}
 .portal_list {
-  float: right;
+
 }
 .main_nav {
   float: left;
@@ -38,6 +41,10 @@
 
 #nav {
   height: 42px;
+}
+
+h3 {
+  margin: 0px;
 }
 
 h5 {
